@@ -1,0 +1,1 @@
+This is a very simple regression model that predicts the life satisfaction score given the gdp of a chosen country, in this particular example we chose Cyprus which has a near GDP of 22,587
